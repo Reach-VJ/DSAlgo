@@ -1,7 +1,5 @@
 package com.reachingskies.geeksandgeeks.strings;
 
-import com.reachingskies.geeksandgeeks.recursion.PrintNto1;
-
 public class PrintCharFrequencies {
 
     public static void main(String [] args) {
