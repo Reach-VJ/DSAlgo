@@ -1,17 +1,11 @@
 # DSAlgo
 
 ## Strings
-  **1. Print Chars and their frequencies from String**
-
-  ![Alt text](images/printcharfreq.png?raw=true "Optional Title")
-<details><summary>CLICK ME</summary>
+  
+<details><summary>1. Print Chars and their frequencies from String</summary>
 <p>
 
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
+![Alt text](images/printcharfreq.png?raw=true "Optional Title")
 
 </p>
 </details>
