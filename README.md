@@ -1,6 +1,6 @@
 # DSAlgo
 
 ## Strings
-**Print Chars and their frequencies from String**
+  **1. Print Chars and their frequencies from String**
 
-![Alt text](1/printcharfreq.png?raw=true "Optional Title")
+  ![Alt text](1/printcharfreq.png?raw=true "Optional Title")
