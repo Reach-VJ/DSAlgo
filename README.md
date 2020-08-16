@@ -41,7 +41,7 @@ Code is [here](/LeftMostNonRepeatingChar.java)
 </p>
 </details>
 
-<details><summary>5. Reverse words in String Time O(n) </summary>
+<details><summary>5. Reverse words in String in Time O(n) </summary>
 <p>
 
 ![Alt text](images/reverseallwordsinstring.png?raw=true "Optional Title")
