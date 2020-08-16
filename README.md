@@ -9,3 +9,11 @@
 
 </p>
 </details>
+
+<details><summary>2. Valid Anagram in Time O(n) </summary>
+<p>
+
+![Alt text](images/anagram.png?raw=true "Optional Title")
+
+</p>
+</details>
