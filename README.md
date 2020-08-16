@@ -30,3 +30,13 @@ Code is [here](/LeftMostRepeatingChar.java)
 
 </p>
 </details>
+
+<details><summary>4. Left most non repeating char from String in Time O(n) </summary>
+<p>
+
+![Alt text](images/leftmostnonrepeatchar.png?raw=true "Optional Title")
+
+Code is [here](/LeftMostNonRepeatingChar.java)
+
+</p>
+</details>
