@@ -40,3 +40,13 @@ Code is [here](/LeftMostNonRepeatingChar.java)
 
 </p>
 </details>
+
+<details><summary>5. Reverse words in String Time O(n) </summary>
+<p>
+
+![Alt text](images/reverseallwordsinstring.png?raw=true "Optional Title")
+
+Code is [here](/ReverseWordsInString.java)
+
+</p>
+</details>
