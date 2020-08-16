@@ -7,7 +7,7 @@
 
 ![Alt text](images/printcharfreq.png?raw=true "Optional Title")
 
-Code is [here](/Anagram.java)
+Code is [here](/PrintCharFrequencies.java)
 </p>
 </details>
 
@@ -15,6 +15,8 @@ Code is [here](/Anagram.java)
 <p>
 
 ![Alt text](images/anagram.png?raw=true "Optional Title")
+
+Code is [here](/Anagram.java)
 
 </p>
 </details>
