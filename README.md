@@ -20,3 +20,13 @@ Code is [here](/Anagram.java)
 
 </p>
 </details>
+
+<details><summary>3. Left most repeating char from String in Time O(n) </summary>
+<p>
+
+![Alt text](images/leftmostrepeatchar.png?raw=true "Optional Title")
+
+Code is [here](/LeftMostRepeatingChar.java)
+
+</p>
+</details>
