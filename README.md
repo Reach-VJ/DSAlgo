@@ -52,3 +52,15 @@ Code is [here](/ReverseWordsInString.java)
 </details>
 
 ## Amazon
+
+<details><summary>1. Add Two Numbers Time O(n) </summary>
+<p>
+
+![Alt text](images/amazon/add2numbers.png?raw=true "Optional Title")
+
+Code is [here](/amazon/AddTwoNumvers2.java)
+
+</p>
+</details>
+
+
