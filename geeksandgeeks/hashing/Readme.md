@@ -12,9 +12,9 @@
 **HashSet**
 
 Important methods : 
-    add O(1) -> return true. Will get false if you add an existing element.
-    contains O(1) --> return ture if elements exists.
-    remove O(1) --> return true if success.
+    1. add O(1) -> return true. Will get false if you add an existing element.
+    2. contains O(1) --> return ture if elements exists.
+    3. remove O(1) --> return true if success.
     
 Loop through elements by two ways, Iteration or enhanced for loop.
 
